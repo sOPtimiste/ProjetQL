@@ -1,0 +1,14 @@
+# Date:      Tue Aug 10 21:35:41 2021 +0200
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   src/main/java/com/example/examen/controller/CustomerRest.java
+#	new file:   src/main/java/com/example/examen/controller/OrderRest.java
+#	new file:   src/main/java/com/example/examen/entities/Customer.java
+#	new file:   src/main/java/com/example/examen/entities/Order.java
+#	new file:   src/main/java/com/example/examen/repositories/CustomerRepository.java
+#	new file:   src/main/java/com/example/examen/repositories/OrderRepository.java
+#	modified:   src/main/resources/application.properties
+#
